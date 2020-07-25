@@ -1,6 +1,6 @@
 # Google-foobar-challenge
 
-I encounterd this google foobar challenge 
+I encounterd this google foobar challenge when I
 
 For **FUN** and **EDUCATION** only.
 
