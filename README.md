@@ -1,6 +1,6 @@
 # Google-foobar-challenge
 
-I encounterd this google foobar challenge when I was trying to search some algorithm 
+I encounterd this google foobar challenge when I was trying to search some algorithm questions 
 
 For **FUN** and **EDUCATION** only.
 
